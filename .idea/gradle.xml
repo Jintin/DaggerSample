@@ -11,6 +11,12 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/dagger-basic" />
+            <option value="$PROJECT_DIR$/dagger-lazy" />
+            <option value="$PROJECT_DIR$/dagger-module" />
+            <option value="$PROJECT_DIR$/dagger-named" />
+            <option value="$PROJECT_DIR$/dagger-scope" />
+            <option value="$PROJECT_DIR$/dagger-subcomponent" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
