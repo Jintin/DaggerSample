@@ -4,5 +4,6 @@ include ':dagger-scope'
 include ':dagger-lazy'
 include ':dagger-subcomponent'
 include ':dagger-named'
+include ':dagger-dependencies'
 include ':app'
 rootProject.name = "DaggerSample"
