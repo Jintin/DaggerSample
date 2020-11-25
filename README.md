@@ -1,4 +1,5 @@
 # DaggerSample
+[![CircleCI](https://circleci.com/gh/Jintin/DaggerSample.svg?style=shield)](https://circleci.com/gh/Jintin/DaggerSample)
 
 Series of different feature sample in Dagger
 
