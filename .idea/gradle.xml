@@ -19,6 +19,7 @@
             <option value="$PROJECT_DIR$/dagger-named" />
             <option value="$PROJECT_DIR$/dagger-scope" />
             <option value="$PROJECT_DIR$/dagger-subcomponent" />
+            <option value="$PROJECT_DIR$/hilt-basic" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
