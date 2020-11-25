@@ -1,4 +1,4 @@
-package com.jintin.daggersample
+package com.jintin.dagger
 
 import org.junit.Test
 
