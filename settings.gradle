@@ -1,5 +1,6 @@
 include ':dagger-basic'
 include ':dagger-module'
+include ':dagger-multi-binding'
 include ':dagger-scope'
 include ':dagger-lazy'
 include ':dagger-named'
