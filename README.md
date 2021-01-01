@@ -11,5 +11,6 @@ Series of different feature sample in Dagger
 - [dagger-named](https://github.com/Jintin/DaggerSample/tree/master/dagger-named): Sample of identify same type of dependency
 - [dagger-subcomponent](https://github.com/Jintin/DaggerSample/tree/master/dagger-subcomponent): Sample of using subcomponent to provide dependency via different scope of dependency
 - [dagger-dependencies](https://github.com/Jintin/DaggerSample/tree/master/dagger-dependencies): Sample of using dependencies attribute to link different level of component in multi-module
+- [dagger-multi-binding](https://github.com/Jintin/DaggerSample/tree/master/dagger-multi-binding): Sample of using multi-binding in Dagger
 - [hilt-basic](https://github.com/Jintin/DaggerSample/tree/master/hilt-basic): Sample of benefit of using hilt on top of dagger
   
